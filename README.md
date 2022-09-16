@@ -9,18 +9,21 @@ Performance
 # Libiraries
 - LibKGE code
 # Methodologies
-## Event time relationship extraction
-|hline Year | Source | Methods|
+### Event time relationship extraction
+| Year | Source | Methods |
 | :---: | :---: | :---: | 
-|hline 2013 | NeurlPS | TransE|
-|hline 2014 | AAAI | TransH|
+| 2021 | EMNLP | Stack-Propagation |
+|  |  |  |
 
-## Time segment extraction
-## Time segment prediction
+### Time segment extraction
+### Time segment prediction
 # Papers
-Survey
-- Yoshua Bengio, Aaron C. Courville, Pascal Vincent. "Representation Learning: A Review and New Perspectives". Transactions on Pattern Analysis and Machine Intelligence 2013. Impact 16.389. paper
-- Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. "A Review of Relational Machine Learning for Knowledge Graphs". Proceedings of the IEEE 2016. Impact 10.960. paper
+### Event time relationship extraction
+Conference
+- Haoyang Wen and Heng Ji. "Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction". EMNLP 2021.
+- 
+### Time segment extraction
+### Time segment prediction
 # Datasets
 | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
