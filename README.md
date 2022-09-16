@@ -14,6 +14,7 @@ Some papers on event time embedding, including event time relationship extractio
 | 2021 | EMNLP | Stack-Propagation |
 | 2020 | EMNLP | TORQUE |
 | 2021 | ACL   | TIMERS |
+| 2022 | ACL   | DocTime |
 ### Event time argument extraction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -37,6 +38,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Haoyang Wen and Heng Ji. "Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction". EMNLP 2021.
 - Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. "TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions". EMNLP 2020.
 - Puneet Mathur, Rajiv Jain, Franck Dernoncourt, Vlad Morariu, Quan Hung Tran, and Dinesh Manocha. "TIMERS: Document-level Temporal Relation Extraction". ACL, 2021.
+- Puneet Mathur, Vlad I Morariu, Verena Kaynig-Fittkau, Jiuxiang Gu, Franck Dernoncourt, Quan Hung Tran, Ani Nenkova,Dinesh Manocha, and Rajiv Jain. "DocTime: A Document-level Temporal Dependency Graph Parser". ACL, 2022.
 ### Event time argument extraction
 - Xiaoshi Zhong, Aixin Sun, and Erik Cambria. "Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules". ACL 2017.
 - Nils Reimers, Nazanin Dehghani, Iryna Gurevych. "Temporal Anchoring of Events for the TimeBank Corpus". ACL, 2016.
@@ -44,7 +46,7 @@ Some papers on event time embedding, including event time relationship extractio
 ### Event time argument prediction
 - Ling Cai, Krzysztof Janowicz, Bo Yan, Rui Zhu, and Gengchen Mai. "Time in a Box: Advancing Knowledge Graph Completion with Temporal Scopes". K-CAP 2021.
 - Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols"
-- Ben Zhou, Qiang Ning, Daniel Khashabi, Dan Roth. "Temporal Common Sense Acquisition with Minimal Supervision". ACL, 2020.
+- Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. "Temporal Common Sense Acquisition with Minimal Supervision". ACL, 2020.
 ### Time knowledge graph completion
 - Timothee Lacroix, Guillaume Obozinski, and Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020 ICLR.
 # Datasets
