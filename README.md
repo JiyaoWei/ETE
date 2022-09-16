@@ -31,7 +31,7 @@ Some papers on event time embedding, including event time relationship extractio
 ### Event time relation prediction
 ### Event time argument prediction
 - Ling Cai, Krzysztof Janowicz, Bo Yan, Rui Zhu, Gengchen Mai. "Time in a Box: Advancing Knowledge Graph Completion with Temporal Scopes". K-CAP 2021.
-### Event time argument prediction
+### Time knowledge graph completion
 - Timothee Lacroix, Guillaume Obozinski, Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020 ICLR.
 # Datasets
 | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 |
