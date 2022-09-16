@@ -13,10 +13,11 @@ Performance
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
 | 2021 | EMNLP | Stack-Propagation |
-|  |  |  |
+| 2020 | EMNLP | TORQUE |
 
 ### Time segment extraction
 ### Time segment prediction
+- Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, Dan Roth. "TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions". EMNLP 2020.
 # Papers
 ### Event time relationship extraction
 Conference
@@ -28,9 +29,4 @@ Conference
 | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2018 | EMNLP | TA-DistMult | 276 | 0.477 | 0.363 | - | 0.686 |
-| 2018 | EMNLP | HyTEDE-SinplE | - | 0.297 | 0.108 | 0.416 | 0.655 |
-| 2020 | AAAI | DE-TransE | - | 0.326 | 0.124 | 0.467 | 0.686 |
-| 2020 | AAAI | DE-DistMult | - | 0.501 | 0.392 | 0.569 | 0.708 |
-| 2020 | AAAI | DE-SimplE | - | 0.526 | 0.418 | 0.592 | 0.725 |
-| 2020 | ICLR | TNTComplEx | - | 0.56 | 0.46 | 0.61 | 0.74 |
 # Performance
