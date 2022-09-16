@@ -18,6 +18,7 @@ Some papers on event time embedding, including event time relationship extractio
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
 | 2021 | K-CAP | TIME2BOX |
+| 2020 | EMNLP | TIMEPLEX |
 ### Time knowledge graph completion
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -30,9 +31,10 @@ Some papers on event time embedding, including event time relationship extractio
 - Xiaoshi Zhong, Aixin Sun, and Erik Cambria. "Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules". ACL 2017.
 ### Event time relation prediction
 ### Event time argument prediction
-- Ling Cai, Krzysztof Janowicz, Bo Yan, Rui Zhu, Gengchen Mai. "Time in a Box: Advancing Knowledge Graph Completion with Temporal Scopes". K-CAP 2021.
+- Ling Cai, Krzysztof Janowicz, Bo Yan, Rui Zhu, and Gengchen Mai. "Time in a Box: Advancing Knowledge Graph Completion with Temporal Scopes". K-CAP 2021.
+- Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols"
 ### Time knowledge graph completion
-- Timothee Lacroix, Guillaume Obozinski, Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020 ICLR.
+- Timothee Lacroix, Guillaume Obozinski, and Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020 ICLR.
 # Datasets
 | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
