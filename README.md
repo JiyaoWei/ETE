@@ -9,22 +9,24 @@ Performance
 # Libiraries
 - LibKGE code
 # Methodologies
-### Event time relationship extraction
+### Event time relation extraction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
 | 2021 | EMNLP | Stack-Propagation |
 | 2020 | EMNLP | TORQUE |
 
-### Time segment extraction
-### Time segment prediction
+### Event time segment extraction
+### Event time relation prediction
 - Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, Dan Roth. "TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions". EMNLP 2020.
+### Event time segment prediction
 # Papers
-### Event time relationship extraction
+### Event time relation extraction
 Conference
 - Haoyang Wen and Heng Ji. "Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction". EMNLP 2021.
 - 
-### Time segment extraction
-### Time segment prediction
+### Event time segment extraction
+### Event time relation prediction
+### Event time segment prediction
 # Datasets
 | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
