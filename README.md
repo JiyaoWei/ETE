@@ -4,7 +4,7 @@ Some papers on event time embedding, including event time relationship extractio
 # Libiraries
 - LibKGE code
 # Methodologies
-### Event time relation extraction
+### Event-Event time relation extraction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
 | 2021 | EMNLP | Stack-Propagation |
@@ -13,7 +13,8 @@ Some papers on event time embedding, including event time relationship extractio
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
 | 2017 | ACL | SynTime |
-### Event time relation prediction
+| 2016 | ACL | TemAnchoring |
+### Event-Event time relation prediction
 ### Event time argument prediction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -25,12 +26,13 @@ Some papers on event time embedding, including event time relationship extractio
 | :---: | :---: | :---: | 
 | 2020 | ICLR | TNTComplEx |
 # Papers
-### Event time relation extraction
+### Event-Event time relation extraction
 - Haoyang Wen and Heng Ji. "Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction". EMNLP 2021.
 - Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. "TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions". EMNLP 2020.
+- Nils Reimers, Nazanin Dehghani, Iryna Gurevych. "Temporal Anchoring of Events for the TimeBank Corpus". ACL, 2016.
 ### Event time argument extraction
 - Xiaoshi Zhong, Aixin Sun, and Erik Cambria. "Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules". ACL 2017.
-### Event time relation prediction
+### Event-Event time relation prediction
 ### Event time argument prediction
 - Ling Cai, Krzysztof Janowicz, Bo Yan, Rui Zhu, and Gengchen Mai. "Time in a Box: Advancing Knowledge Graph Completion with Temporal Scopes". K-CAP 2021.
 - Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols"
