@@ -24,6 +24,7 @@ Some papers on event time embedding, including event time relationship extractio
 | 2021 | ACL | 4-tuple |
 ### Event-Event time relation prediction
 | Year | Source | Methods |
+| :---: | :---: | :---: | 
 | 2021 | KDD | T-GAP |
 ### Event time argument prediction
 | Year | Source | Methods |
