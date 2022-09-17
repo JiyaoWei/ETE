@@ -16,6 +16,7 @@ Some papers on event time embedding, including event time relationship extractio
 | 2020 | EMNLP | TORQUE |
 | 2021 | ACL   | TIMERS |
 | 2022 | ACL   | DocTime |
+| 2019 | CORR  | CaTeRS |
 ### Event time argument extraction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -54,6 +55,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. "TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions". EMNLP, 2020.
 - Puneet Mathur, Rajiv Jain, Franck Dernoncourt, Vlad Morariu, Quan Hung Tran, and Dinesh Manocha. "TIMERS: Document-level Temporal Relation Extraction". ACL, 2021.
 - Puneet Mathur, Vlad I Morariu, Verena Kaynig-Fittkau, Jiuxiang Gu, Franck Dernoncourt, Quan Hung Tran, Ani Nenkova,Dinesh Manocha, and Rajiv Jain. "DocTime: A Document-level Temporal Dependency Graph Parser". ACL, 2022.
+- Rujun Han, Mengyue Liang, Bashar Alhafni, and Nanyun Peng. "Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding". CoRR, 2019.
 ### Event time argument extraction
 - Xiaoshi Zhong, Aixin Sun, and Erik Cambria. "Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules". ACL 2017.
 - Nils Reimers, Nazanin Dehghani, Iryna Gurevych. "Temporal Anchoring of Events for the TimeBank Corpus". ACL, 2016.
