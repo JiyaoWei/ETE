@@ -34,7 +34,7 @@ Some papers on event time embedding, including event time relationship extractio
 | 2020 | ACL | TACOLM |
 | 2021 | ACL | TTE |
 | 2022 | ACL | VerbalAspect |
-| 2021 | ACL | ACL-IJCNLP |
+| 2021 | ACL-IJCNLP | DeepHit |
 ### Time knowledge graph completion
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -61,6 +61,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Nazanin Dehghani, Hassan Hajipoor, Hadi Amiri. "Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event". ACL, 2021.
 - Eleni Metheniti, Tim Van de Cruys, and Nabil Hathout. "About Time: Do Transformers Learn Temporal Verbal Aspect?". ACL, 2021.
 - Lianhui Qin, Aditya Gupta, Shyam Upadhyay, Luheng He, Yejin Choi, Manaal Faruqui. "TIMEDIAL: Temporal Commonsense Reasoning in Dialog". ACL-IJCNLP, 2021.
+- Christine De Kock, Andreas Vlachos. "Survival text regression for time-to-event prediction in conversations". ACL-IJCNLP, 2021.
 ### Time knowledge graph completion
 - Timothee Lacroix, Guillaume Obozinski, and Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020, ICLR.
 # Datasets
