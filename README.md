@@ -43,6 +43,7 @@ Some papers on event time embedding, including event time relationship extractio
 ### Time embedding
 - Tanya Goyal and Greg Durrett. "Embedding time expressions for deep temporal ordering models". ACL, 2019.
 - Sebastien Montella. "Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures". ACL-IJCNLP, 2021.
+- Kaspar Beelen, Federico Nanni, Mariona Coll Ardanuy, Kasra Hosseini, Giorgia Tolfo, and Barbara McGillivray. "When Time Makes Sense: A Historically-Aware Approach to Targeted Sense Disambiguation". ACL-IJCNLP, 2021.
 ### Event-Event time relation extraction
 - Haoyang Wen and Heng Ji. "Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction". EMNLP, 2021.
 - Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. "TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions". EMNLP, 2020.
