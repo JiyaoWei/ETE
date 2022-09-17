@@ -23,6 +23,7 @@ Some papers on event time embedding, including event time relationship extractio
 | 2016 | ACL | TemAnchoring |
 | 2021 | ACL | 4-tuple |
 ### Event-Event time relation prediction
+| Year | Source | Methods |
 | 2021 | KDD | T-GAP |
 ### Event time argument prediction
 | Year | Source | Methods |
@@ -60,7 +61,7 @@ Some papers on event time embedding, including event time relationship extractio
 ### Time knowledge graph completion
 - Timothee Lacroix, Guillaume Obozinski, and Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020, ICLR.
 # Datasets
-| Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 |
+<!-- | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2018 | EMNLP | TA-DistMult | 276 | 0.477 | 0.363 | - | 0.686 |
+| 2018 | EMNLP | TA-DistMult | 276 | 0.477 | 0.363 | - | 0.686 | -->
 # Performance
