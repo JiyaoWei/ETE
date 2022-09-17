@@ -20,6 +20,7 @@ Some papers on event time embedding, including event time relationship extractio
 | :---: | :---: | :---: | 
 | 2017 | ACL | SynTime |
 | 2016 | ACL | TemAnchoring |
+| 2021 | ACL | 4-tuple |
 ### Event-Event time relation prediction
 ### Event time argument prediction
 | Year | Source | Methods |
@@ -27,7 +28,6 @@ Some papers on event time embedding, including event time relationship extractio
 | 2021 | K-CAP | TIME2BOX |
 | 2020 | EMNLP | TIMEPLEX |
 | 2020 | ACL | TACOLM |
-| 2021 | ACL | 4-tuple |
 ### Time knowledge graph completion
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
