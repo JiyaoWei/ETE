@@ -28,6 +28,7 @@ Some papers on event time embedding, including event time relationship extractio
 | 2021 | K-CAP | TIME2BOX |
 | 2020 | EMNLP | TIMEPLEX |
 | 2020 | ACL | TACOLM |
+| 2021 | ACL | TTE |
 ### Time knowledge graph completion
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -49,6 +50,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Ling Cai, Krzysztof Janowicz, Bo Yan, Rui Zhu, and Gengchen Mai. "Time in a Box: Advancing Knowledge Graph Completion with Temporal Scopes". K-CAP 2021.
 - Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols"
 - Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. "Temporal Common Sense Acquisition with Minimal Supervision". ACL, 2020.
+- Nazanin Dehghani, Hassan Hajipoor, Hadi Amiri. "Embedding Time Differences in Context-sensitive Neural Networks for Learning Time to Event". ACL, 2021.
 ### Time knowledge graph completion
 - Timothee Lacroix, Guillaume Obozinski, and Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020 ICLR.
 # Datasets
