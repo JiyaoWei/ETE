@@ -82,9 +82,8 @@ Some papers on event time embedding, including event time relationship extractio
 - Timothee Lacroix, Guillaume Obozinski, and Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020, ICLR.
 - Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, and Yan Zhang. AAAI, 2021.
 - Woojeong Jin, Meng Qu, Xisen Jin, and Xiang Ren. "Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs". EMNLP, 2020.
-<!-- # Datasets
-<!-- | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2018 | EMNLP | TA-DistMult | 276 | 0.477 | 0.363 | - | 0.686 | -->
-# Performance
- -->
+<!-- # Datasets -->
+<!-- | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 | -->
+<!-- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | -->
+<!-- | 2018 | EMNLP | TA-DistMult | 276 | 0.477 | 0.363 | - | 0.686 | -->
+<!-- # Performance -->
