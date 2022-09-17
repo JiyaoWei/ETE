@@ -28,6 +28,7 @@ Some papers on event time embedding, including event time relationship extractio
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
 | 2021 | KDD | T-GAP |
+| 2018 | KDD | CCMs |
 ### Event time argument prediction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -62,6 +63,7 @@ Some papers on event time embedding, including event time relationship extractio
 ### Event-Event time relation prediction
 - Jaehun Jung, Jinhong Jung, and U Kang. "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion". KDD, 2021.
 - Qiang Ning, Sanjay Subramanian, and Dan Roth. "An Improved Neural Baseline for Temporal Relation Extraction". EMNLP, 2019.
+- Qiang Ning, Zhili Feng, Hao Wu, Dan Roth. "Joint Reasoning for Temporal and Causal Relations". ACL, 2018.
 ### Event time argument prediction
 - Ling Cai, Krzysztof Janowicz, Bo Yan, Rui Zhu, and Gengchen Mai. "Time in a Box: Advancing Knowledge Graph Completion with Temporal Scopes". K-CAP 2021.
 - Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols"
