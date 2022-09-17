@@ -23,6 +23,7 @@ Some papers on event time embedding, including event time relationship extractio
 | 2016 | ACL | TemAnchoring |
 | 2021 | ACL | 4-tuple |
 | 2021 | arxiv | STAGE |
+| 2018 | EMNLP | CogCompTime |
 ### Event-Event time relation prediction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -56,7 +57,8 @@ Some papers on event time embedding, including event time relationship extractio
 - Xiaoshi Zhong, Aixin Sun, and Erik Cambria. "Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules". ACL 2017.
 - Nils Reimers, Nazanin Dehghani, Iryna Gurevych. "Temporal Anchoring of Events for the TimeBank Corpus". ACL, 2016.
 - Haoyang Wen, Yanru Qu, Heng Ji, Qiang Ning, Jiawei Han, Avirup Sil, Hanghang Tong, Dan Roth. "Event Time Extraction and Propagation via Graph Attention Networks". ACL, 2021.
-- Luke Breitfeller, Aakanksha Naik, and Carolyn Rose. STAGE: Tool for Automated Extraction of Semantic Time Cues to Enrich Neural Temporal Ordering Models. Arxiv, 2021.
+- Luke Breitfeller, Aakanksha Naik, and Carolyn Rose. "STAGE: Tool for Automated Extraction of Semantic Time Cues to Enrich Neural Temporal Ordering Models". Arxiv, 2021.
+- Qiang Ning, Ben Zhou, Zhili Feng, Haoruo Peng, Dan Roth. "CogCompTime: A Tool for Understanding Time in Natural Language". EMNLP, 2018.
 ### Event-Event time relation prediction
 - Jaehun Jung, Jinhong Jung, and U Kang. "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion". KDD, 2021.
 - Qiang Ning, Sanjay Subramanian, and Dan Roth. "An Improved Neural Baseline for Temporal Relation Extraction". EMNLP, 2019.
