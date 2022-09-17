@@ -59,6 +59,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Luke Breitfeller, Aakanksha Naik, and Carolyn Rose. STAGE: Tool for Automated Extraction of Semantic Time Cues to Enrich Neural Temporal Ordering Models. Arxiv, 2021.
 ### Event-Event time relation prediction
 - Jaehun Jung, Jinhong Jung, and U Kang. "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion". KDD, 2021.
+- Qiang Ning, Sanjay Subramanian, and Dan Roth. "An Improved Neural Baseline for Temporal Relation Extraction". EMNLP, 2019.
 ### Event time argument prediction
 - Ling Cai, Krzysztof Janowicz, Bo Yan, Rui Zhu, and Gengchen Mai. "Time in a Box: Advancing Knowledge Graph Completion with Temporal Scopes". K-CAP 2021.
 - Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols"
