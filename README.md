@@ -70,6 +70,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Qiang Ning, Zhili Feng, Hao Wu, Dan Roth. "Joint Reasoning for Temporal and Causal Relations". ACL, 2018.
 - Qiang Ning, Sanjay Subramanian, and Dan Roth. "An Improved Neural Baseline for Temporal Relation Extraction". EMNLP, 2019.
 - Jaehun Jung, Jinhong Jung, and U Kang. "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion". KDD, 2021.
+- Aman Madaan and Yiming Yang. "Neural Language Modeling for Contextualized Temporal Graph Generation". NAACL, 2021.
 ### Event time argument prediction
 - Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols". EMNLP, 2020.
 - Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. "Temporal Common Sense Acquisition with Minimal Supervision". ACL, 2020.
