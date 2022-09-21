@@ -58,6 +58,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. "TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions". EMNLP, 2020.
 - Haoyang Wen and Heng Ji. "Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction". EMNLP, 2021.
 - Puneet Mathur, Rajiv Jain, Franck Dernoncourt, Vlad Morariu, Quan Hung Tran, and Dinesh Manocha. "TIMERS: Document-level Temporal Relation Extraction". ACL, 2021.
+- Aman Madaan and Yiming Yang. "Neural Language Modeling for Contextualized Temporal Graph Generation". NAACL, 2021.
 - Puneet Mathur, Vlad I Morariu, Verena Kaynig-Fittkau, Jiuxiang Gu, Franck Dernoncourt, Quan Hung Tran, Ani Nenkova,Dinesh Manocha, and Rajiv Jain. "DocTime: A Document-level Temporal Dependency Graph Parser". ACL, 2022.
 ### Event time argument extraction
 - Nils Reimers, Nazanin Dehghani, Iryna Gurevych. "Temporal Anchoring of Events for the TimeBank Corpus". ACL, 2016.
@@ -70,7 +71,6 @@ Some papers on event time embedding, including event time relationship extractio
 - Qiang Ning, Zhili Feng, Hao Wu, Dan Roth. "Joint Reasoning for Temporal and Causal Relations". ACL, 2018.
 - Qiang Ning, Sanjay Subramanian, and Dan Roth. "An Improved Neural Baseline for Temporal Relation Extraction". EMNLP, 2019.
 - Jaehun Jung, Jinhong Jung, and U Kang. "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion". KDD, 2021.
-- Aman Madaan and Yiming Yang. "Neural Language Modeling for Contextualized Temporal Graph Generation". NAACL, 2021.
 ### Event time argument prediction
 - Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols". EMNLP, 2020.
 - Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. "Temporal Common Sense Acquisition with Minimal Supervision". ACL, 2020.
