@@ -13,6 +13,7 @@ Some papers on event time embedding, including event time relationship extractio
 ### Event-Event time relation extraction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
+| 2018 | KDD | CCMs |
 | 2019 | CORR  | CaTeRS |
 | 2020 | EMNLP | TORQUE |
 | 2021 | EMNLP | Stack-Propagation |
@@ -30,7 +31,6 @@ Some papers on event time embedding, including event time relationship extractio
 ### Event-Event time relation prediction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
-| 2018 | KDD | CCMs |
 | 2021 | KDD | T-GAP |
 ### Event time argument prediction
 | Year | Source | Methods |
@@ -54,6 +54,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Sebastien Montella. "Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures". ACL-IJCNLP, 2021.
 - Kaspar Beelen, Federico Nanni, Mariona Coll Ardanuy, Kasra Hosseini, Giorgia Tolfo, and Barbara McGillivray. "When Time Makes Sense: A Historically-Aware Approach to Targeted Sense Disambiguation". ACL-IJCNLP, 2021.
 ### Event-Event time relation extraction
+- Qiang Ning, Zhili Feng, Hao Wu, Dan Roth. "Joint Reasoning for Temporal and Causal Relations". ACL, 2018.
 - Rujun Han, Mengyue Liang, Bashar Alhafni, and Nanyun Peng. "Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding". CoRR, 2019.
 - Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. "TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions". EMNLP, 2020.
 - Haoyang Wen and Heng Ji. "Utilizing Relative Event Time to Enhance Event-Event Temporal Relation Extraction". EMNLP, 2021.
@@ -68,7 +69,6 @@ Some papers on event time embedding, including event time relationship extractio
 - Haoyang Wen, Yanru Qu, Heng Ji, Qiang Ning, Jiawei Han, Avirup Sil, Hanghang Tong, Dan Roth. "Event Time Extraction and Propagation via Graph Attention Networks". ACL, 2021.
 - Luke Breitfeller, Aakanksha Naik, and Carolyn Rose. "STAGE: Tool for Automated Extraction of Semantic Time Cues to Enrich Neural Temporal Ordering Models". Arxiv, 2021.
 ### Event-Event time relation prediction
-- Qiang Ning, Zhili Feng, Hao Wu, Dan Roth. "Joint Reasoning for Temporal and Causal Relations". ACL, 2018.
 - Qiang Ning, Sanjay Subramanian, and Dan Roth. "An Improved Neural Baseline for Temporal Relation Extraction". EMNLP, 2019.
 - Jaehun Jung, Jinhong Jung, and U Kang. "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion". KDD, 2021.
 ### Event time argument prediction
