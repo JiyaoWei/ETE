@@ -31,7 +31,6 @@ Some papers on event time embedding, including event time relationship extractio
 ### Event-Event time relation prediction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
-| 2021 | KDD | T-GAP |
 ### Event time argument prediction
 | Year | Source | Methods |
 | :---: | :---: | :---: | 
@@ -47,6 +46,7 @@ Some papers on event time embedding, including event time relationship extractio
 | 2020 | ICLR | TNTComplEx |
 | 2020 | EMNLP | RE-NET |
 | 2021 | AAAI | CyGNet |
+| 2021 | KDD | T-GAP |
 # Papers
 ### Time embedding
 - Qiang Ning, Hao Wu, and Dan Roth. "A Multi-Axis Annotation Scheme for Event Temporal Relations". ACL, 2018.
@@ -70,7 +70,6 @@ Some papers on event time embedding, including event time relationship extractio
 - Luke Breitfeller, Aakanksha Naik, and Carolyn Rose. "STAGE: Tool for Automated Extraction of Semantic Time Cues to Enrich Neural Temporal Ordering Models". Arxiv, 2021.
 ### Event-Event time relation prediction
 - Qiang Ning, Sanjay Subramanian, and Dan Roth. "An Improved Neural Baseline for Temporal Relation Extraction". EMNLP, 2019.
-- Jaehun Jung, Jinhong Jung, and U Kang. "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion". KDD, 2021.
 ### Event time argument prediction
 - Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. "Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols". EMNLP, 2020.
 - Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. "Temporal Common Sense Acquisition with Minimal Supervision". ACL, 2020.
@@ -83,6 +82,7 @@ Some papers on event time embedding, including event time relationship extractio
 - Timothee Lacroix, Guillaume Obozinski, and Nicolas Usunier. "TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION". 2020, ICLR.
 - Woojeong Jin, Meng Qu, Xisen Jin, and Xiang Ren. "Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs". EMNLP, 2020.
 - Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, and Yan Zhang. AAAI, 2021.
+- Jaehun Jung, Jinhong Jung, and U Kang. "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion". KDD, 2021.
 <!-- # Datasets -->
 <!-- | Year | Source | Methods | MR | MRR | Hits@1 | Hits@3 | Hits@10 | -->
 <!-- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | -->
